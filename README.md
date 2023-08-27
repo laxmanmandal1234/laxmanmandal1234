@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/laxmanmandal1234](https://github.com/laxmanmandal1234)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN(MongoDB, Express, ReactJs, NodeJs) Stack**
 
 - 📫 How to reach me **laxmanmandal7903@gmail.com**
 
