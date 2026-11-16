@@ -1,27 +1,33 @@
 <h1 align="center">Hi 👋, I'm Laxman Mandal</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Machine Learning & Generative AI · Software Engineer · Aspiring PhD Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmanmandal1234&label=Profile%20views&color=0e75b6&style=flat" alt="laxmanmandal1234" /> </p>
+I'm a software engineer with a background in **mechanical engineering** (B.E., BIT Mesra) and several years in the automotive industry, first as a **transmission test engineer** working on vibration and NVH, and now as a **software developer**. I'm preparing for **PhD research in Computer Science** in **machine learning and generative AI**.
 
-- 🌱 I’m currently learning **React and System Design**
+I like to understand methods from first principles: implement them from scratch, check that they're correct, and run small, controlled experiments with honest reporting.
 
-- 🤝 I’m looking for help with **Software Developer Job**
+### 🔬 Research interests
+- **Large language models**: parameter-efficient fine-tuning, tokenization, evaluation
+- **Retrieval-augmented generation** and grounded generation
+- **Reliable ML**: calibration, uncertainty, statistically sound evaluation
+- **ML for physical systems**: vibration-based condition monitoring and anomaly detection
 
-- 👨‍💻 All of my projects are available at [https://github.com/laxmanmandal1234](https://github.com/laxmanmandal1234)
+### 📂 Selected projects
 
-- 💬 Ask me about **MERN(MongoDB, Express, ReactJs, NodeJs) Stack**
+| Project | What it explores |
+|---|---|
+| [**lora-from-scratch**](https://github.com/laxmanmandal1234/lora-from-scratch) | LoRA with a hand-derived backward pass; rank vs. head-only vs. full fine-tuning study |
+| [**rag-hybrid-retrieval**](https://github.com/laxmanmandal1234/rag-hybrid-retrieval) | RAG pipeline with BM25, dense (LSA) and Reciprocal Rank Fusion retrieval, passage-level evaluation |
+| [**llm-eval-toolkit**](https://github.com/laxmanmandal1234/llm-eval-toolkit) | EM/F1/BLEU/ROUGE-L, calibration (ECE, Brier), bootstrap CIs and paired significance tests |
+| [**bpe-tokenizer**](https://github.com/laxmanmandal1234/bpe-tokenizer) | Byte-level BPE tokenizer for LLMs, from scratch |
+| [**tiny-autograd**](https://github.com/laxmanmandal1234/tiny-autograd) | Reverse-mode autodiff engine with broadcasting, gradient-checked, plus MLP / SGD / Adam |
+| [**gearbox-vibration-anomaly**](https://github.com/laxmanmandal1234/gearbox-vibration-anomaly) | Unsupervised gearbox fault detection: physics-inspired simulator, sideband features, Mahalanobis & PCA detectors |
 
-- 📫 How to reach me **laxmanmandal7903@gmail.com**
+Earlier full-stack work (MERN): [Fiverr-style freelance app](https://github.com/laxmanmandal1234/Fiverr-Full-MERN-Stack-App), [Task Manager](https://github.com/laxmanmandal1234/Task-Manager), [E-commerce App](https://github.com/laxmanmandal1234/Ecommerce-App).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/laxman-mandal-418b81100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman-mandal-418b81100/" height="30" width="40" /></a>
-<a href="https://instagram.com/bunny.me23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bunny.me23" height="30" width="40" /></a>
-</p>
+### 🛠️ Tools
+**ML / Data:** Python · NumPy · pandas · LLM APIs<br>
+**Engineering:** Git · GitHub Actions · pytest · REST APIs · React · Node.js · MongoDB · MySQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanmandal1234&show_icons=true&locale=en&layout=compact" alt="laxmanmandal1234" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmanmandal1234&show_icons=true&locale=en" alt="laxmanmandal1234" /></p>
+### 📫 Contact
+- Email: **laxmanmandal7903@gmail.com**
+- LinkedIn: [laxman-mandal-418b81100](https://linkedin.com/in/laxman-mandal-418b81100/)
